@@ -1,0 +1,23 @@
+.jumbotron {
+  background-image: url("../img/eye.gif");
+  color: blue;
+}
+.author {
+  text-align: center;
+  font-family: Courier;
+  font-size: 20;
+  color: #FF573;
+  background-image: url("../img/eye.gif");
+}
+h2 {
+  font-size: 55;
+  color: eef907;
+}
+#try {
+  font-family: cursive;
+}
+.row {
+  color: red;
+  font-family: cursive;
+  font-size: 20px;
+}
